@@ -14,7 +14,11 @@ html {
   font-size: 62.5%;
 }
 
-.html{}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 /* End of Reset and Common Styles */
 
 /* section-1 */
@@ -27,10 +31,7 @@ html {
     ),
     url(./assets/images/bg.jpg) center no-repeat;
   background-size: cover;
-  display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 .section-1-heading {
   font-size: 6rem;
@@ -88,6 +89,6 @@ html {
 }
 
 .navbar-link{
-;
+
 }
 /* End of Navbar */
