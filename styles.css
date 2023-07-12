@@ -105,7 +105,7 @@ transition: color 0.2s;
 
 .navbar-link::before{
 content: "";
-
+width: 0;
 height: .2rem;
 background-color: #fff;
 position: absolute;
