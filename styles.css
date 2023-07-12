@@ -75,7 +75,14 @@ opacity: 0.9;
   padding: .5rem 1rem;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
-
-
 }
 /* End of section-1 */
+
+/* Navbar */
+.navbar{
+  width: 100%;
+height: 4rem;
+background-color: #e41c6f;
+
+}
+/* End of Navbar */
