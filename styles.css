@@ -58,7 +58,12 @@ opacity: 0.9;
 
 .person-name{
   font-size: 2rem;
-  c
+  color: #fff;
+  background-color: #e41c6f;
+  margin: 5rem;
+  padding: 0.5rem 3rem;
+  letter-spacing: 0.3rem;
+  transform: skew(-10deg);
 }
 
 /* End of section-1 */
