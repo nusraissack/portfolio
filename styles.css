@@ -117,4 +117,4 @@ transition: width 0.2s;
 .navbar-link:hover::before{
 width: 130%;
 }
-
+/* End of Navbar */
