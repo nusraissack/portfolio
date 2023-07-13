@@ -214,11 +214,11 @@ font-weight: 700;
   background-color: #eef;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  
 }
 
 .projects-wrapper{
   width: 80%;
-  
+
 }
 /* End of Section 3 */
