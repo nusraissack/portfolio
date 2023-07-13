@@ -188,4 +188,15 @@ font-weight: 700;
   margin-bottom: 2rem;
   text-shadow: .1rem .1rem .5rem 0.5rem #555;
  }
+
+ .section h2{
+  font-size: 2rem;
+  color: #fff;
+  background-color: #777;
+  width: 25rem;
+  letter-spacing: .3rem;
+  transform: skewY(-10deg);
+  box-shadow: 0.2 0.2 0.5 #555;
+
+}
 /* End of section-2 */
