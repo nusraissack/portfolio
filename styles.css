@@ -179,4 +179,13 @@ font-weight: 700;
   justify-content: space-evenly;
   align-items: center;
 }
+.service {
+  text-align: center;
+}
+.service i{
+  font-size: 10rem;
+  color: #888;
+  margin-bottom: 2rem;
+  text-shadow: .1rem .1rem .5rem 0.5rem #555;
+ }
 /* End of section-2 */
