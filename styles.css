@@ -127,5 +127,41 @@ transition: width 0.2s;
   background-color: white;
   flex-direction: column;
   align-items: center;
+  display: flex;
+}
+
+.section-2-heading{
+  font-size: 5rem;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 0.5rem;
+  margin-bottom: 15rem;
+  border-bottom: .3rem solid#333;
+  text-shadow: .2rem .2rem .5rem#555;
+}
+
+.progress-bars-wrapper{
+  margin-bottom: 10rem;
+}
+.progress-bar{
+  width: 60rem;
+  height: 3rem;
+  background-color: #ccc;
+  margin: 1.5rem 0;
+  border-radius: .3rem;
+  box-shadow: .2rem .2rem 1rem #555;
+}
+
+.progress-text{
+  position: absolute;
+  left: 1rem;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.progress-text span{
+  margin: 0 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 700;
 }
 /* End of section-2 */
