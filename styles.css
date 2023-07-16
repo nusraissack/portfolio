@@ -235,5 +235,7 @@ font-weight: 700;
 .project{
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 /* End of Section 3 */
