@@ -233,12 +233,16 @@ font-weight: 700;
 }
 
 .project{
-  display: flex;
+  display: flex; 
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-  margin: 1rem;
+  align-items: center; 
   background-color: #fff;
   box-shadow: 0.3rem 0.3rem 0.5rem #777;
+}
+
+.project-text{
+  text-align: center;
+  
 }
 /* End of Section 3 */
