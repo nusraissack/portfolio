@@ -231,4 +231,9 @@ font-weight: 700;
   width: 80%;
   flex-wrap: wrap;
 }
+
+.project{
+  display: flex;
+  flex-direction: column;
+}
 /* End of Section 3 */
