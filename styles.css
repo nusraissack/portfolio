@@ -239,6 +239,7 @@ font-weight: 700;
   align-items: center; 
   background-color: #fff;
   box-shadow: 0.3rem 0.3rem 0.5rem #777;
+  position: relative;
 }
 
 .project-text{
