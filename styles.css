@@ -245,4 +245,9 @@ font-weight: 700;
   text-align: center;
   letter-spacing: 0.1rem;
 }
+
+.project-name{
+  font-size: 3rem;
+  font-weight: 700
+}
 /* End of Section 3 */
