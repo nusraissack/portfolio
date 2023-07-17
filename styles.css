@@ -371,4 +371,9 @@ html {
   background-color: #e41c6f;
   border-radius: 0.5rem;
 }
+
+.social-media-link i{
+  font-size: 3rem;
+  color: #fff;
+}
 /* End of Section 5 */
