@@ -344,7 +344,9 @@ font-weight: 700;
 
 .contact-form .contact-form-btn{
   background-color: #e41c6f;
-  
+  color: #fff;
+  text-transform: uppercase;
+
 }
 
 /* End of Section 4 */
