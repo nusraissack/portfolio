@@ -281,6 +281,10 @@ font-weight: 700;
   background-color: #fff;
   position: absolute;
   bottom: -5rem;
-  
+  transition: bottom 0.3s;
+}
+
+.project:hover .project:link{
+  bottom: 5rem;
 }
 /* End of Section 3 */
