@@ -331,6 +331,15 @@ font-weight: 700;
   padding: .5rem;
   margin: .5rem 0;
   background-color: #eef;
+  font-size: 1.5rem;
+  border: 0.2rem solid #e41c6f;
+  color: #555;
+}
+
+.contact-form textarea{
+  height: 10rem;
+  max-height: 15rem;
+  max-width: 100%;
 }
 
 /* End of Section 4 */
