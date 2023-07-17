@@ -264,4 +264,9 @@ font-weight: 700;
 .project-img{
   width: 40rem;
 }
+
+.project-link{
+  font-size: 2rem;
+  font-weight: 500;
+}
 /* End of Section 3 */
