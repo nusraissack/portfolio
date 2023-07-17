@@ -294,5 +294,6 @@ font-weight: 700;
 
 .project:hover .project-link{
   bottom: 5rem;
+  transition: bottom 0.3s 0.3s;
 }
 /* End of Section 3 */
