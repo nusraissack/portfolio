@@ -320,4 +320,14 @@ font-weight: 700;
   border-color: #fff;
 }
 
+.contact-form{
+  width: 50rem;
+  flex-direction: column;
+}
+
+.contact-form input,
+.contact-form textarea{
+  
+}
+
 /* End of Section 4 */
