@@ -363,6 +363,11 @@ html {
 
 .social-media {
   margin-bottom: 5rem;
-  
+}
+
+.social-media-link{
+  margin: 0 2rem;
+  padding: .7rem;
+  background-color: #e41c6f;
 }
 /* End of Section 5 */
