@@ -255,6 +255,7 @@ font-weight: 700;
 
 .project:hover .project-text{
   top: 5rem;
+  transition: top .3s .3s;
 }
 
 .project-name{
