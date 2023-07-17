@@ -327,7 +327,8 @@ font-weight: 700;
 
 .contact-form input,
 .contact-form textarea{
-  
+  width: 100%;
+  padding: .5rem;
 }
 
 /* End of Section 4 */
