@@ -241,6 +241,7 @@ font-weight: 700;
   margin: 1rem;
   box-shadow: 0.3rem 0.3rem 0.5rem #777;
   position: relative;
+  overflow: hidden;
 }
 
 .project-text{
@@ -248,6 +249,7 @@ font-weight: 700;
   letter-spacing: 0.1rem;
   position: absolute;
   top: -10rem;
+  z-index: 10;
   transition: top 0.3s;
 }
 
@@ -269,6 +271,7 @@ font-weight: 700;
 
 .project-img{
   width: 40rem;
+  transition: opacity 0.3s;
 }
 
 .project:hover .project-img{
