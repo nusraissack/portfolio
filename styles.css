@@ -329,6 +329,8 @@ font-weight: 700;
 .contact-form textarea{
   width: 100%;
   padding: .5rem;
+  margin: .5rem 0;
+  background-color: #eef;
 }
 
 /* End of Section 4 */
