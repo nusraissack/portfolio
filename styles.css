@@ -370,6 +370,7 @@ html {
   padding: .7rem;
   background-color: #e41c6f;
   border-radius: 0.5rem;
+  display: inline-block;
 }
 
 .social-media-link i{
