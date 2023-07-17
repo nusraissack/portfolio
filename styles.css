@@ -271,6 +271,10 @@ font-weight: 700;
   width: 40rem;
 }
 
+.project:hover .project-img{
+  opacity: .2;
+}
+
 .project-link{
   font-size: 2rem;
   font-weight: 500;
@@ -284,7 +288,7 @@ font-weight: 700;
   transition: bottom 0.3s;
 }
 
-.project:hover .project:link{
+.project:hover .project-link{
   bottom: 5rem;
 }
 /* End of Section 3 */
